@@ -25,7 +25,7 @@ Which can be installed from the AUR , by using this command
 paru -S rocblas-polaris-bin
 ```
 
-Option 2 :
+Option 2 (Not tested) :
 
 the source package .
 Which can be installed from the AUR , by using this command
