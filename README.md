@@ -11,9 +11,9 @@ Since many packages will be installed, it is recommended to use an
 [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers)
 like [`paru`](https://aur.archlinux.org/packages/paru/).
 
-Currently Only 2 Packages need patching to work with Polaris/GFX803, which are the [rocm-opencl-runtime](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime) and [rocblas](https://github.com/ROCmSoftwarePlatform/rocBLAS) .
+Currently Only 2 Packages need patching to work with [Polaris/GFX803](https://www.amd.com/en/technologies/polaris) , which are the [rocm-opencl-runtime](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime) and [rocblas](https://github.com/ROCmSoftwarePlatform/rocBLAS) .
 
-And the [rocm-arch](https://github.com/rocm-arch) repository already patched [rocm-opencl-runtime](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime) , leaving rocblas un-patched which mean you will have to get it from here :
+And the [rocm-arch](https://github.com/rocm-arch) repository already patched [rocm-opencl-runtime](https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime) , leaving rocblas un-patched which means you will have to get it from here :
 
 You have 2 options : 
 
